@@ -1,0 +1,59 @@
+#### DATA ANALYTICS & BUSINESS INTELLIGENCE – TASK 1 REPORT
+
+1. Project Overview
+This project focuses on performing Data Cleaning, Exploratory Data Analysis (EDA), and
+Dashboard Creation using the Superstore dataset. The objective is to extract meaningful insights
+and present them using an interactive Power BI dashboard.
+2. Objectives
+1 Clean and preprocess raw data
+2 Perform exploratory data analysis (EDA)
+3 Identify key business metrics (KPIs)
+4 Build an interactive dashboard in Power BI
+5 Generate actionable business insights
+
+3. Tools & Technologies Used
+1. Power BI
+2 Microsoft Excel / CSV
+3 Python (Pandas – optional)
+4. Dataset Description
+
+1 Dataset Name: Superstore Dataset
+2 Contains information about Orders, Sales, Profit, Customers, Regions, Categories
+
+5. Data Cleaning Process
+1 Removed missing/null values
+2 Removed duplicate records
+3 Converted date columns to proper format
+4 Ensured correct data types (numeric, date, text)
+
+6. Exploratory Data Analysis (EDA)
+1 Total Sales and Profit calculated
+2 Sales distribution across regions
+3 Profit analysis by category
+4 Time-based sales trends
+
+7. Dashboard Overview (Power BI)
+1 KPIs: Total Sales, Total Profit, Total Orders
+2 Sales by Region (Bar Chart)
+3 Profit by Category (Column Chart)
+4 Sales Trend Over Time (Line Chart)
+5 Filters: Region, Category, Order Date
+
+8. Key Insights
+1 West region generates the highest sales
+2 Technology category contributes the highest profit
+3 Some categories show low or negative profitability
+4 Sales trends indicate seasonal variations
+
+9. Business Recommendations
+1 Focus on high-performing regions like West for growth
+2 Improve or discontinue low-profit products
+3 Optimize pricing and discount strategies
+4 Use seasonal trends for better inventory planning
+
+10. Conclusion
+This project demonstrates how raw data can be transformed into meaningful insights using data
+analytics tools. The Power BI dashboard provides a clear and interactive way to support business
+decision-making.
+11. Author
+Name: Lalit Jamliya Role: Data Analyst Intern
